@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a solutions architect by day but don't get to touch code.  I work on numerous side projects, either here or if they are more stable/supported on my [CodeChimp-org](https://github.com/codechimp-org) account.
+
+- 🔭 I’m currently working on most things Swift & SwiftUI.
+
+- 📫 How to reach me: [@andrewcodechimp](https://twitter.com/AndrewCodeChimp)
+
 <!--
 **andrew-codechimp/andrew-codechimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
