@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a solutions architect by day but don't get to touch code.  I work on numerous side projects, either here or if they are more stable/supported on my [CodeChimp-org](https://github.com/codechimp-org) account.
+I work on numerous side projects, either here or if they are more stable/supported on my [CodeChimp-org](https://github.com/codechimp-org) organisation.  
+My portfolio of released work is available at [https://codechimp.org/](https://codechimp.org/)
 
 - 🔭 I’m currently working on most things Swift & SwiftUI.
-
 - 📫 How to reach me: [@andrewcodechimp](https://twitter.com/AndrewCodeChimp)
 
 <!--
