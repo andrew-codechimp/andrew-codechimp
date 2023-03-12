@@ -4,7 +4,7 @@ I work on numerous side projects, either here or if they are more stable/support
 My portfolio of released work is available at [https://codechimp.org/](https://codechimp.org/)
 
 - 🔭 I’m currently working on most things Swift & SwiftUI.
-- 📫 How to reach me: [@andrewcodechimp](https://twitter.com/AndrewCodeChimp)
+- 📫 How to reach me: [@andrewcodechimp](https://mastodon.online/@codechimp)
 
 <!--
 **andrew-codechimp/andrew-codechimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
