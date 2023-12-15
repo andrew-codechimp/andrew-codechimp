@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work on numerous side projects, either here or if they are more stable/supported on my [CodeChimp-org](https://github.com/codechimp-org) organisation.  
+I work on numerous side projects.
 My portfolio of released work is available at [https://codechimp.org/](https://codechimp.org/)
 
 - 🔭 I’m currently working on most things Swift & SwiftUI.
