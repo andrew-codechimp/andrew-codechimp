@@ -3,7 +3,7 @@
 I work on numerous side projects.  
 My portfolio of released work is available at [https://codechimp.org/](https://codechimp.org/)
 
-- 🔭 I’m currently working on most things Swift & SwiftUI and also Home Assistant Integrations.
+- 🔭 I’m working on things Home Assistant related.
 - 📫 How to reach me: [@andrewcodechimp](https://mastodon.online/@codechimp)
 
 <!--
